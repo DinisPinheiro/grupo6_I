@@ -1,0 +1,2 @@
+F.	O README é um ficheiro html que explica o programa a ser desenvolvido o seu proposito é fazer com que pesssoas que não estejam familiarizadas com o programa saibam o que quer dizer cada coisa.
+
