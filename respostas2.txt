@@ -1,2 +1,3 @@
 F.	O README é um ficheiro html que explica o programa a ser desenvolvido o seu proposito é fazer com que pesssoas que não estejam familiarizadas com o programa saibam o que quer dizer cada coisa.
 
+G.	Usamos stashing quando queremos usar outra branch sem salvar a atual que estamos a fazer por exemplo estou a trabalhar numa branch e quero trocar para outra, mas o programa não está finalizado e não quero fazer commit faço um stashing do programa em que estou a trabalhar e posso ir para a outra branch.
